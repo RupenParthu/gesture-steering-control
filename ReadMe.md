@@ -1,4 +1,6 @@
-# 🖐️ Hand Gesture Steering Wheel for Video Games
+# 🖐️ Hand Gesture Steering Wheel for Video Games (WIP)
+
+🛠️ Still a work in progress — stay tuned!
 
 Control your car ingame with just your hands — no hardware needed.  
 Steer, shift gears, and drive using real-time hand gestures via MediaPipe + OpenCV.  
